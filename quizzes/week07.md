@@ -40,10 +40,10 @@
 **8.** What is the purpose of the `key` attribute when using `v-for` on an element?
 <!-- enter you answer in the space below -->
 ```
--
+-It is used as a refeence for vue to use when comparing new lists to the old list.
 ```
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
 ```
-
+-They are similar to props in that it is a way to pass data from a parent to a child.
 ```
